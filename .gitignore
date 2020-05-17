@@ -8,6 +8,8 @@
 
 # Libraries
 
+# virtual Environments
+django_env/
 
 # Shared objects (inc. Windows DLLs)
 
