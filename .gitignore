@@ -7,6 +7,7 @@
 # Precompiled Headers
 
 # Libraries
+HTML_Templates/
 
 # virtual Environments
 django_env/
